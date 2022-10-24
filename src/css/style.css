@@ -66,6 +66,7 @@ div.buttons {
 }
 
 div.buttons >  button {
+    color:#04080F;
     cursor: pointer;
     border: none;
     margin-bottom: 4%;
