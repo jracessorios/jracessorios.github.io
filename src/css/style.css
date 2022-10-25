@@ -91,6 +91,12 @@ footer {
     color: white;
 }
 
+span {
+    font-weight: 500;
+    color:#04E428;
+}
+
+
 
 /* media queries */
 
