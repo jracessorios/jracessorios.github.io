@@ -86,9 +86,8 @@ div.buttons >  button:hover {
 }
 
 footer {
-    display: flex;
-    flex-direction: row;
-    width: 90%;
+    font-size: 0.8rem;
+    margin-top: 20px;
     color: white;
 }
 
@@ -102,17 +101,14 @@ footer {
 
 
     div.buttons >  button {
-        width: 350px;
+        color:#04080F;
+        width: 360px;
     }
 
     footer {
-        width: 90%;
-        color: white;
-        position: absolute;
-        top: 90%;
-        left: 63px;
-        font-size: 0.7rem;
         text-align: center;
-        align-items: center;
+        font-size: 0.8rem;
+        margin-top: 20px;
+        color: white;
     }
 }
